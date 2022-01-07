@@ -1,4 +1,5 @@
 # respo_c_cpp
+'''
 #this is my first time to create a reposity
 class Person:
     def __init__(self, name) -> None:
@@ -14,3 +15,4 @@ name = input("please input the damn name: ")
 demo = Person(name)
 demo.deal_name()
 # print(demo.name)
+'''
